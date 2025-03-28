@@ -100,7 +100,7 @@ export default function Hero2() {
               
               <iframe
                 className="w-full h-full relative z-10"
-                src="https://www.youtube.com/embed/w532SXmLGC8"
+                src="https://youtu.be/RcGyVTAoXEU?si=jVnbt6P7F9YXy1gI"
                 title="Introduction Video"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen

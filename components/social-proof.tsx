@@ -7,39 +7,39 @@ import { SilverGradientDivider } from "./ui/silver-gradient-divider";
 const testimonials = [
   {
     name: "Mariska Karsana",
-    role: "Joined Alife 2019",
+    role: "Joined fintrust 2019",
     income: "Monthly Income: 300jt+",
-    image: "/mariskakarsana.jpg",
-    quote: "Semenjak join Alife menemukan IKIGAI — purpose dan goal dalam menjalankan bisnis."
+    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=600&auto=format&fit=crop",
+    quote: "Semenjak join fintrust menemukan IKIGAI — purpose dan goal dalam menjalankan bisnis."
   },
   {
     name: "Gwen Sembada",
-    role: "MDiT 4 Stars • Joined Alife 2019",
-    image: "/gwenSembada.jpg",
-    quote: "Alife has been a life-changing experience, offering not only financial growth but also incredible opportunities for personal development."
+    role: "MDiT 4 Stars • Joined fintrust 2019",
+    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=600&auto=format&fit=crop",
+    quote: "fintrust has been a life-changing experience, offering not only financial growth but also incredible opportunities for personal development."
   },
   {
     name: "Jessica Suwarsono",
-    role: "Monthly Income: 100jt+ • Joined Alife 2020",
-    image: "/jessica.jpg",
-    quote: "Sejak join ALIFE aku merasakan perubahan hidup yg signifikan since now I can have flexible working hours."
+    role: "Monthly Income: 100jt+ • Joined fintrust 2020",
+    image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=600&auto=format&fit=crop",
+    quote: "Sejak join fintrust aku merasakan perubahan hidup yg signifikan since now I can have flexible working hours."
   },
   {
     name: "Martha Teja",
-    role: "3 Digit Monthly Income • Joined Alife 2019",
-    image: "/martateja.jpg",
+    role: "3 Digit Monthly Income • Joined fintrust 2019",
+    image: "https://images.unsplash.com/photo-1614644147798-f8c0fc9da7f6?q=80&w=600&auto=format&fit=crop",
     quote: "Satu satunya komunitas yang kasi full support dari segi edukasi maupun entertainnya."
   },
   {
     name: "Shannon Subeno",
     role: "Monthly Income: 120jt+",
-    image: "/shannon.png",
-    quote: "Devina is a straightforward and nurturing leader. When it comes to other aspects of growing the business."
+    image: "https://images.unsplash.com/photo-1556157382-97eda2f9e5d2?q=80&w=600&auto=format&fit=crop",
+    quote: "Maria is a straightforward and nurturing leader. When it comes to other aspects of growing the business."
   },
   {
     name: "Anastasia Inez",
     role: "Monthly Income: 110jt+",
-    image: "/anastasia.jpg",
+    image: "https://images.unsplash.com/photo-1558898479-33c0057a5d12?q=80&w=600&auto=format&fit=crop",
     quote: "Environment yg positive, creative & smart! Income acceleration nya luar biasa dengan plenty of room for growth."
   }
 ];

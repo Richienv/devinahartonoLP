@@ -20,28 +20,28 @@ const requirements = [
 const slides = [
   {
     id: 1,
-    image: "/thumb-dev.png",
+    image: "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=1600&auto=format&fit=crop",
     title: "EXCLUSIVE GATHERING",
     date: "02.03.2024",
     description: "Bergabung dengan komunitas eksklusif kami dan bangun koneksi seumur hidup dengan para high achievers"
   },
   {
     id: 2,
-    image: "/thumb-dev2.png",
+    image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1600&auto=format&fit=crop",
     title: "TRANSFORMASI BISNIS",
     date: "18.09.2024", 
     description: "Pelajari rahasia scaling bisnis dari para expert yang telah membuktikan kesuksesannya"
   },
   {
     id: 3,
-    image: "/thumb-dev3.png",
+    image: "https://images.unsplash.com/photo-1507878866276-a947ef722fee?q=80&w=1600&auto=format&fit=crop",
     title: "MASTERMIND SESSION",
     date: "18.09.2024",
     description: "Diskusi eksklusif dan sharing pengalaman dengan para entrepreneur sukses di komunitas kami"
   },
   {
     id: 4,
-    image: "/thumb-dev4.png",
+    image: "https://images.unsplash.com/photo-1559223607-a43f990c095d?q=80&w=1600&auto=format&fit=crop",
     title: "CELEBRATION OF SUCCESS",
     date: "18.09.2024",
     description: "Rayakan pencapaian luar biasa bersama member komunitas yang telah mencapai kebebasan finansial"
@@ -284,7 +284,7 @@ export default function Hero() {
             <div className="relative w-full aspect-video bg-white">
               {/* Video */}
               <iframe
-                src="https://www.youtube.com/embed/0r0J62Q5Mgc?controls=0&autoplay=0&rel=0"
+                src="https://www.youtube.com/embed/RcGyVTAoXEU"
                 className="absolute inset-0 w-full h-full"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
@@ -300,7 +300,7 @@ export default function Hero() {
             {/* Caption */}
             <div className="absolute -bottom-8 left-4 right-4">
               <div className="flex items-center justify-between max-w-screen-2xl mx-auto">
-                <span className="text-xs tracking-[0.2em] text-neutral-500">DEVINA HARTONO</span>
+                <span className="text-xs tracking-[0.2em] text-neutral-500">MARIA</span>
                 <span className="text-xs tracking-[0.2em] text-neutral-500">2024</span>
               </div>
             </div>

@@ -14,8 +14,8 @@ export default function Navbar() {
             {/* Logo Container */}
             <div className="relative w-12 h-12 md:w-16 md:h-16">
               <Image
-                src="/alife_logo.png"
-                alt="Alife Logo"
+                src="https://images.unsplash.com/photo-1613294326794-e47d58553bd1?q=80&w=200&auto=format&fit=crop"
+                alt="Logo"
                 fill
                 className="object-contain"
                 priority

@@ -18,7 +18,7 @@ const instrumentSerif = Instrument_Serif({
 })
 
 export const metadata: Metadata = {
-  title: 'Join Devina Hartono Team',
+  title: 'Join Maria Team',
   description: 'Join our elite team of insurance professionals',
 }
 

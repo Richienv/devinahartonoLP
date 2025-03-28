@@ -28,8 +28,8 @@ export default function Footer() {
               {/* Logo Image */}
               <div className="relative w-10 h-10 md:w-12 md:h-12">
                 <Image
-                  src="/alife_logo.png"
-                  alt="Alife Logo"
+                  src="https://images.unsplash.com/photo-1613294326794-e47d58553bd1?q=80&w=200&auto=format&fit=crop"
+                  alt="Logo"
                   fill
                   className="object-contain transition-transform group-hover:scale-105 duration-500"
                   priority
@@ -37,7 +37,7 @@ export default function Footer() {
               </div>
               
               <span className="text-xl font-instrument-serif tracking-wide text-neutral-900">
-                Alife
+                fintrust
               </span>
             </Link>
 
